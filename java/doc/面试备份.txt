@@ -1,4 +1,4 @@
-面试官你好，我叫许志勇，毕业于福建示范大学，从事JAVA相关开发5年多。目前就职于厦门网宿科技数据中台部负责流量计费系统的开发和系统的优化。 目前比较熟悉的技术栈包括JAVA相关知识,Kafka中间件,Spring,SpringMVC,SpringBoot,Redis,MyBatis,MySQL,当当ShardingJdbc分库分表组件,ZK,MySQL数据库
+面试官你好，我叫XX，毕业于XXX，从事JAVA相关开发5年多。目前就职于XXX技数据中台部负责流量计费系统的开发和系统的优化。 目前比较熟悉的技术栈包括JAVA相关知识,Kafka中间件,Spring,SpringMVC,SpringBoot,Redis,MyBatis,MySQL,当当ShardingJdbc分库分表组件,ZK,MySQL数据库
 任职期间主要做的工作包括
 	0.系统的开发优化和维护
 	1.改造了API端Redis缓存机制使性能有了很大提升，	2.独立设计并开发了入库自动化平台，采用配置的方式实现了不同类型数据的正常入库，采用分库分表实现了每天百万数据的获取和存储。
